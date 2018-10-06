@@ -1,0 +1,21 @@
+C:\Users\Prashun\Desktop\NetflixApp\NetflixApp\bin\Debug\NetflixApp.exe.config
+C:\Users\Prashun\Desktop\NetflixApp\NetflixApp\bin\Debug\NetflixApp.exe
+C:\Users\Prashun\Desktop\NetflixApp\NetflixApp\bin\Debug\NetflixApp.pdb
+C:\Users\Prashun\Desktop\NetflixApp\NetflixApp\obj\Debug\NetflixApp.csprojResolveAssemblyReference.cache
+C:\Users\Prashun\Desktop\NetflixApp\NetflixApp\obj\Debug\NetflixApp.Properties.Resources.resources
+C:\Users\Prashun\Desktop\NetflixApp\NetflixApp\obj\Debug\NetflixApp.csproj.GenerateResource.cache
+C:\Users\Prashun\Desktop\NetflixApp\NetflixApp\obj\Debug\NetflixApp.csproj.CoreCompileInputs.cache
+C:\Users\Prashun\Desktop\NetflixApp\NetflixApp\obj\Debug\NetflixApp.exe
+C:\Users\Prashun\Desktop\NetflixApp\NetflixApp\obj\Debug\NetflixApp.pdb
+C:\Users\Prashun\Desktop\NetflixApp\NetflixApp\obj\Debug\NetflixApp.Form1.resources
+C:\Users\Prashun\Desktop\NetflixApp\NetflixApp\obj\Debug\NetflixApp.csproj.CopyComplete
+C:\Users\Prashun\Desktop\CS 341\NetflixApp\NetflixApp\bin\Debug\NetflixApp.exe.config
+C:\Users\Prashun\Desktop\CS 341\NetflixApp\NetflixApp\bin\Debug\NetflixApp.exe
+C:\Users\Prashun\Desktop\CS 341\NetflixApp\NetflixApp\bin\Debug\NetflixApp.pdb
+C:\Users\Prashun\Desktop\CS 341\NetflixApp\NetflixApp\obj\Debug\NetflixApp.csprojResolveAssemblyReference.cache
+C:\Users\Prashun\Desktop\CS 341\NetflixApp\NetflixApp\obj\Debug\NetflixApp.Form1.resources
+C:\Users\Prashun\Desktop\CS 341\NetflixApp\NetflixApp\obj\Debug\NetflixApp.Properties.Resources.resources
+C:\Users\Prashun\Desktop\CS 341\NetflixApp\NetflixApp\obj\Debug\NetflixApp.csproj.GenerateResource.cache
+C:\Users\Prashun\Desktop\CS 341\NetflixApp\NetflixApp\obj\Debug\NetflixApp.csproj.CoreCompileInputs.cache
+C:\Users\Prashun\Desktop\CS 341\NetflixApp\NetflixApp\obj\Debug\NetflixApp.exe
+C:\Users\Prashun\Desktop\CS 341\NetflixApp\NetflixApp\obj\Debug\NetflixApp.pdb
